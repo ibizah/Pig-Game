@@ -1,3 +1,4 @@
+How to play the Pig card game
 pig-game with JS
 Sort the deck of cards out into piles of four of a kind. Set aside one pile for each player. Discard the remainder of the piles.
 
